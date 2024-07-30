@@ -1,0 +1,37 @@
+.p-textarea {
+  min-height: 2.5em;
+}
+.bg-primary {
+  color: var(--p-primary-contrast-color);
+  background-color: var(--p-primary-color);
+}
+
+.bg-secondary {
+  color: var(--p-button-secondary-color);
+  background-color: var(--p-button-secondary-background);
+}
+
+.bg-danger {
+  color: var(--p-button-danger-color);
+  background-color: var(--p-button-danger-background);
+}
+
+.bg-success {
+  color: var(--p-button-success-color);
+  background-color: var(--p-button-success-background);
+}
+
+.bg-warn {
+  color: var(--p-button-warn-color);
+  background-color: var(--p-button-warn-background);
+}
+
+.bg-info {
+  color: var(--p-button-info-color);
+  background-color: var(--p-button-info-background);
+}
+
+.bg-contrast {
+  color: var(--p-button-contrast-color);
+  background-color: var(--p-button-contrast-background);
+}
