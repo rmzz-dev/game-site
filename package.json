@@ -11,24 +11,24 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.6.0",
-    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/vue-fontawesome": "^3.0.8",
-    "@primevue/themes": "^4.0.0",
-    "@types/pg": "^8.11.6",
-    "@vueuse/core": "^10.11.0",
-    "@vueuse/nuxt": "^10.11.0",
-    "db0": "^0.1.4",
-    "nuxt": "^3.12.4",
-    "pg": "^8.12.0",
-    "primevue": "^4.0.0",
+    "@primevue/themes": "^4.2.5",
+    "@types/pg": "^8.11.10",
+    "@vueuse/core": "^12.2.0",
+    "@vueuse/nuxt": "^12.2.0",
+    "db0": "^0.2.1",
+    "nuxt": "^3.15.0",
+    "pg": "^8.13.1",
+    "primevue": "^4.2.5",
     "tailwindcss-primeui": "^0.3.4",
     "vue": "latest"
   },
   "devDependencies": {
-    "@primevue/nuxt-module": "^4.0.0",
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.39",
-    "tailwindcss": "^3.4.6"
+    "@primevue/nuxt-module": "^4.2.5",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
   }
 }
